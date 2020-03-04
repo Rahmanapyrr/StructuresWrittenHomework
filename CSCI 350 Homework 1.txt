@@ -14,3 +14,7 @@ k -> a|b|c|d|e|...|x|y|z
 j' ->  e | e | e |f
 f ->  e | f |Ɛ
 e -> 0|1|2|3|4|5|6|7|8|9
+
+terminals = {A, B, C ....X,Y,Z a, b, c ... x, y, z , 0, 1, 2, 3...9}
+
+variables = {s, g', i', j', k, h, f, e}
